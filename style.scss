@@ -116,6 +116,12 @@ table, th, td {
 
 th {
     height: 50px;
+    vertical-align: middle;
+}
+
+td {
+    height: 50px;
+    vertical-align: bottom;
 }
 
 
