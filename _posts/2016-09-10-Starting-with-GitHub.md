@@ -2,7 +2,7 @@
 title: Starting with GitHub
 layout: post
 author: philip.campion
-permalink: /copy-of-using-github/
+permalink: /Starting-with-GitHub/
 source-id: 1e74dppB3u7T_ihuLIkobag7_ZAYKKyIj0gQL0cKwNFY
 published: true
 ---
