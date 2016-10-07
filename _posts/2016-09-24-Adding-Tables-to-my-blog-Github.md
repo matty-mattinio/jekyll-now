@@ -2,7 +2,7 @@
 title: Adding Tables to my blog
 layout: post
 author: philip.campion
-permalink: /copy-of-using-github/
+permalink: /Adding-Tables-to-my-blog/
 source-id: 1_QKByHHHIXPSlXcs6V4hCz_E8WCnYWCMsKBrxwKWGR4
 published: true
 ---
