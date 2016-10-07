@@ -2,7 +2,7 @@
 title: Working from home
 layout: post
 author: philip.campion
-permalink: /copy-of-using-github/
+permalink: /Working-from-home/
 source-id: 1qBOFW5bgy0ohKTMQZqkH6Sx_a5jQxJL99UC1wSn_4t8
 published: true
 ---
