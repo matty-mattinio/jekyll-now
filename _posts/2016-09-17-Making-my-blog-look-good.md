@@ -2,7 +2,7 @@
 title: Making my blog look good
 layout: post
 author: philip.campion
-permalink: /copy-of-using-github/
+permalink: /Making-my-blog-look-good/
 source-id: 1WblResEZcfIoXBiSN_HTTL1yrNLpMy-Uhfv6vplDAAw
 published: true
 ---
