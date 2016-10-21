@@ -1,5 +1,5 @@
 ---
-title: Blogging lesson1 review
+title: A new blogger is born!- Blog 1
 layout: post
 author: matty.hawkins
 permalink: /blogging-lesson1-review/
