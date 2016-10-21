@@ -1,5 +1,5 @@
 ---
-title: Blogging lesson2 review
+title: Lots & lots of notes!- Blog 2
 layout: post
 author: matty.hawkins
 permalink: /blogging-lesson2-review/
