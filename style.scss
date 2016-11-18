@@ -47,7 +47,7 @@ svg{
 
 h1, h2, h3, h4, h5, h6 {
   font-family:'Julius Sans One', sans-serif;
-  color: white;
+  color: #FFFFFF;
   font-weight: bold;
 
   line-height: 1.7;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: white;
+    color: #FFFFFF;
   }
 }
 
@@ -76,7 +76,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: white;
+  color: #FFFFFF;
 }
 
 p {
@@ -88,7 +88,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: white;
+    color: #FFFFFF;
   }
 }
 
@@ -191,7 +191,7 @@ th, td {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid black;
 
   @include mobile {
     text-align: center;
@@ -278,7 +278,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid black;
 }
 
 .posts > .post:last-child {
@@ -303,7 +303,7 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
-    color: #8C2318;
+    color: #FFFFFF;
   }
 }
 
@@ -311,7 +311,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: black;
 }
 
 footer {
