@@ -1,5 +1,5 @@
 ---
-title: Blogging lesson3 review
+title: Personlising!-Blog 3
 layout: post
 author: matty.hawkins
 permalink: /blogging-lesson3-review/
