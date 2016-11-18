@@ -1,5 +1,5 @@
 ---
-title: Blogging lesson5 review
+title: Spreadsheet V.2- Blog 5
 layout: post
 author: matty.hawkins
 permalink: /blogging-lesson5-review/
