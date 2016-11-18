@@ -47,7 +47,7 @@ svg{
 
 h1, h2, h3, h4, h5, h6 {
   font-family:'Julius Sans One', sans-serif;
-  color: #C6CBC5;
+  color: white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ffffff;
+    color: white;
   }
 }
 
@@ -76,7 +76,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: white;
 }
 
 p {
@@ -88,7 +88,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: white;
   }
 }
 
@@ -126,14 +126,14 @@ img {
 }
 
 table, th, td {
-   border: 1px solid black;
+   border: 1px solid white;
    width: 100%;
 }
 
 th {
     height: 50px;
     vertical-align: middle;
-	background-colour: #C6CBC5;
+	background-colour: black;
 }
 
 td {
