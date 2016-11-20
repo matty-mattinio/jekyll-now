@@ -193,6 +193,7 @@ th, td {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid black;
+  masthead-attachment:fixed
 
   @include mobile {
     text-align: center;
