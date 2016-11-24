@@ -62,7 +62,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $white;
 }
 
 p {
@@ -70,11 +70,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $black;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $black;
   }
 }
 
@@ -116,7 +116,7 @@ table {
 }
 
 table, th, td {
-	border: 1px solid black
+	border: 1px solid white
 	;
 }
 th {
