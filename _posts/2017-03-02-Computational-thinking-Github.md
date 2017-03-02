@@ -23,7 +23,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Do make a simple responsive python program</td>
+    <td>To make a simple responsive python program</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
